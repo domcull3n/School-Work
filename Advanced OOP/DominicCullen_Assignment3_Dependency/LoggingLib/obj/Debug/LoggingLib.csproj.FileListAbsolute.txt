@@ -1,0 +1,13 @@
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\obj\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\obj\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.XML
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\bin\Debug\LoggingLib.XML
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\bin\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\bin\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\obj\Debug\LoggingLib.csprojResolveAssemblyReference.cache
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\obj\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\obj\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\bin\Debug\NLog.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment3_Dependency\LoggingLib\bin\Debug\NLog.xml

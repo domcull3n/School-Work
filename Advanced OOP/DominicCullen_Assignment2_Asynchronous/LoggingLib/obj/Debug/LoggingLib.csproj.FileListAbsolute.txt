@@ -1,0 +1,5 @@
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\obj\Debug\LoggingLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\obj\Debug\LoggingLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment2_Asynchronous\LoggingLib\bin\Debug\LoggingLib.XML

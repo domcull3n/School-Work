@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoggingLib</name>
+    </assembly>
+    <members>
+        <member name="T:LoggingLib.ILoggingService">
+            <summary>
+            Interface to be implemented by loggers
+            </summary>
+        </member>
+        <member name="M:LoggingLib.ILoggingService.Log(System.String)">
+            <summary>
+            Logging function signature
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:LoggingLib.NLog">
+            <summary>
+            Logging class using the NLog Framework
+            </summary>
+        </member>
+        <member name="M:LoggingLib.NLog.Log(System.String)">
+            <summary>
+            Logging the message to a file
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:LoggingLib.TextFileLogger">
+            <summary>
+            A logger that writes out to a text file
+            </summary>
+        </member>
+        <member name="M:LoggingLib.TextFileLogger.Log(System.String)">
+            <summary>
+            Logs the message to a text file
+            </summary>
+            <param name="message"></param>
+        </member>
+    </members>
+</doc>

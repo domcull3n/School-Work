@@ -1,0 +1,5 @@
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment1_SynchronousChat\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment1_SynchronousChat\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment1_SynchronousChat\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment1_SynchronousChat\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment1_SynchronousChat\ChatLib\obj\Debug\ChatLib.pdb

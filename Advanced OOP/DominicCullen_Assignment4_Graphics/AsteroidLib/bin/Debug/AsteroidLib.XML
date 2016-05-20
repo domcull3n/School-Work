@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AsteroidLib</name>
+    </assembly>
+    <members>
+        <member name="T:AsteroidLib.Asteroid">
+            <summary>
+            Class that defines the asteroid object
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Asteroid.xVelocity">
+            <summary>
+            Velocities for both the x and y axis
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Asteroid.yVelocity">
+            <summary>
+            Velocities for both the x and y axis
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Asteroid.innerRectangle">
+            <summary>
+            Rectangle that specifies the size and hitbox for the asteroid
+            </summary>
+        </member>
+        <member name="M:AsteroidLib.Asteroid.#ctor(System.Drawing.Rectangle)">
+            <summary>
+            Constructor for Asteroid that initializes the height and width and creates the asteroid
+            </summary>
+            <param name="gameArea"></param>
+        </member>
+        <member name="M:AsteroidLib.Asteroid.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws the asteroid object
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:AsteroidLib.Asteroid.Move">
+            <summary>
+            Moves the asteroid by the specified velocity
+            </summary>
+        </member>
+        <member name="T:AsteroidLib.Player">
+            <summary>
+            Class that defines the player object
+            </summary>
+        </member>
+        <member name="T:AsteroidLib.Player.Direction">
+            <summary>
+            Enum for specific directions of keyboard
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Player.projectiles">
+            <summary>
+            List of type projectiles
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Player.playerRectangle">
+            <summary>
+            Rectangle which defines the hitbox for the player
+            </summary>
+        </member>
+        <member name="M:AsteroidLib.Player.#ctor(System.Drawing.Rectangle)">
+            <summary>
+            Constructor for the player class, initializes position and size
+            </summary>
+            <param name="gameArea"></param>
+        </member>
+        <member name="M:AsteroidLib.Player.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws the player object, using the points array
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:AsteroidLib.Player.Move(AsteroidLib.Player.Direction)">
+            <summary>
+            Moves the player object by it's speed and the direction passed
+            </summary>
+            <param name="direction"></param>
+        </member>
+        <member name="M:AsteroidLib.Player.ShootProjectile(System.Int32,System.Int32)">
+            <summary>
+            Creates a new projectile and adds it to the projectiles list
+            </summary>
+            <param name="mouseX"></param>
+            <param name="mouseY"></param>
+        </member>
+        <member name="T:AsteroidLib.Projectile">
+            <summary>
+            Class that defines the projectile object
+            </summary>
+        </member>
+        <member name="F:AsteroidLib.Projectile.innerRectangle">
+            <summary>
+            Rectangle around the projectiles, used as a hitbox
+            </summary>
+        </member>
+        <member name="M:AsteroidLib.Projectile.#ctor(System.Int32,System.Int32,System.Drawing.Point)">
+            <summary>
+            Constructor for the projectile, uses parameters passed in to define the speed and direction of it
+            </summary>
+            <param name="mouseX"></param>
+            <param name="mouseY"></param>
+            <param name="playerPoint"></param>
+        </member>
+        <member name="M:AsteroidLib.Projectile.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draws the projectile
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:AsteroidLib.Projectile.Move">
+            <summary>
+            Moves the projectile
+            </summary>
+        </member>
+        <member name="T:AsteroidLib.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:AsteroidLib.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:AsteroidLib.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:AsteroidLib.Properties.Resources.asteroid">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,8 @@
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\bin\Debug\AsteroidLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\bin\Debug\AsteroidLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\obj\Debug\AsteroidLib.dll
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\obj\Debug\AsteroidLib.pdb
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\obj\Debug\AsteroidLib.Properties.Resources.resources
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\obj\Debug\AsteroidLib.csproj.GenerateResource.Cache
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\obj\Debug\AsteroidLib.csprojResolveAssemblyReference.cache
+C:\Users\domcu\Documents\Code\Advanced OOP\w0279091\DominicCullen_Assignment4_Graphics\AsteroidLib\bin\Debug\AsteroidLib.XML

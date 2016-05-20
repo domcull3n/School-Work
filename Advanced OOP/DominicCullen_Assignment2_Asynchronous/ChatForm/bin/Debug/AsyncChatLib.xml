@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AsyncChatLib</name>
+    </assembly>
+    <members>
+        <member name="T:AsyncChatLib.Client">
+            <summary>
+            Class that will connect to a TCPlistener class
+            </summary>
+        </member>
+        <member name="E:AsyncChatLib.Client.ReceiveMsgEvent">
+            <summary>
+            Event handler for the client class to talk to the form
+            </summary>
+        </member>
+        <member name="P:AsyncChatLib.Client.StopListening">
+            <summary>
+            Volatile bool to flag that the application should stop listening
+            </summary>
+        </member>
+        <member name="M:AsyncChatLib.Client.Connect(System.String)">
+            <summary>
+            Connects the client to the already running server
+            </summary>
+            <param name="server"></param>
+            <returns>String for saying it's connected</returns>
+        </member>
+        <member name="M:AsyncChatLib.Client.SendingMessage(System.String)">
+            <summary>
+            Converts the parameter and puts it into a byte array and then sends that to the client
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:AsyncChatLib.Client.IsDataAvailable">
+            <summary>
+            A method to determine data availability
+            </summary>
+            <returns>Bool to say if data is available in the stream</returns>
+        </member>
+        <member name="M:AsyncChatLib.Client.Listen">
+            <summary>
+            Method that loops to see if data is available to be read from the stream (To be run Asynchronously) 
+            </summary>
+        </member>
+        <member name="M:AsyncChatLib.Client.Read">
+            <summary>
+            Reads bytes from the network stream into the client class, byte buffer
+            </summary>
+            <returns>Returns amount of bytes read into the clients buffer</returns>
+        </member>
+        <member name="M:AsyncChatLib.Client.IsConnected">
+            <summary>
+            Determines wether the client is connected or not
+            </summary>
+            <returns>Bool depending on if the client is connected or not</returns>
+        </member>
+        <member name="M:AsyncChatLib.Client.Disconnect">
+            <summary>
+            Disconnects the client stream and sets a flag so the other thread can exit gracefully
+            </summary>
+        </member>
+    </members>
+</doc>
